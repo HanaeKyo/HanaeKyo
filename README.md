@@ -4,7 +4,6 @@
 - ;w; Help wanted 
 - <( ^w^)>
 - 
-![w27](https://user-images.githubusercontent.com/97498690/148891617-01f0a73b-7469-4aa9-a72b-c6b903e3cad7.jpg
 
 <!---
 HanaeKyo/HanaeKyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
