@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HanaeKyo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  ( ^w^)/ Hi, I’m @HanaeKyo
+- I like ramen
+- Discord: - Hanae Kyo -#8368
+- ;w; Help wanted 
+- <( ^w^)>
 
 <!---
 HanaeKyo/HanaeKyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
